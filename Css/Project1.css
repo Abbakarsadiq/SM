@@ -1,0 +1,76 @@
+
+body{
+  margin-top: 0px;
+  background-color: rgba(41,61,90,0.99);
+  text-align: center;
+}
+h1{
+  color: white;
+  font-style: oblique;
+  font-size: 50px;
+  font-family: cursive;
+
+}
+.Abubakar{
+  font-size: 50px;
+  background-color: white;
+  color: rgba(41,61,90,0.99), #fff;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50px;
+  background-image: linear-gradient(to top, white, blue);
+
+}
+.nav{
+  position: fixed;
+  padding: 10px;
+  background-color: rgba(41,61,90,0.99);
+  width: 100%;
+  margin: 0, auto;
+  font-size: 25px;
+
+
+}
+
+a{
+  color: white;
+  margin: left;
+  padding: 20px;
+  font-size: 25px;
+  text-decoration: none;
+  contrast: 7.38;
+  keyboard-focusable;
+
+}
+h2{
+  color: white;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+.if{
+  color: white;
+  font-size: 50px;
+  font-family: serif;
+}
+p{
+  color: #ffffffff;
+  font-size: 35px;
+}
+
+
+
+.swag{
+  border: 100;
+  border-radius: 100%;
+  border-color: green;
+}
+.pro {
+  color: #ffffffff;
+  font-size: 45px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+h3{
+  color: #ffffffff;
+  font-size: 40px;
+}
